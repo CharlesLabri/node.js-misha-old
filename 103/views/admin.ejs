@@ -1,0 +1,425 @@
+<% include head %>
+<% include navbar %>
+
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span6">
+			<form class="form-horizontal" action="insertlink" method="post"> <!--LINKS START-->
+				<legend>Add Links</legend>
+				<div class="control-group">
+					<label class="control-label" for="inputName">Name</label> 
+					<div class="controls">
+						<input type="text" id="inputName" placeholder="Descriptive Name" name="name">
+					</div>
+				</div>
+				<div class="control-group">
+					<label class="control-label" for="inputURL">URL</label>
+					<div class="controls">
+						<div class="input-prepend">
+							<input type="text" id="docinputURL" placeholder="URL Location" name="url">
+						</div>
+					</div>
+				</div>
+				<div class="control-group">
+					<label class="control-label" for="inputIcon">Icon</label>
+					<div class="controls">
+						<input type="text" id="inputIcon" placeholder="URL Location of Image File" name="icon">
+					</div>
+				</div>
+				<div class="control-group">
+					<div class="controls">
+						<label class="checkbox">
+							<input type="checkbox" name="administrative" value="administrative"> Administrative
+						</label>
+						<label class="checkbox">
+							<input type="checkbox" name="sales" value="sales"> Sales
+						</label>
+						<label class="checkbox">
+                                                        <input type="checkbox" name="fi" value="fi"> FI
+                                                </label>
+						<label class="checkbox">
+							<input type="checkbox" name="parts" value="parts"> Parts
+						</label>
+						<label class="checkbox">
+							<input type="checkbox" name="service" value="service"> Service
+						</label>
+						<label class="checkbox">
+							<input type="checkbox" name="it" value="it"> IT
+						</label>
+					</div>
+				</div>	
+				<div class="control-group">
+					<div class="controls">
+						<button type="submit" class="btn btn-large btn-primary">Add New Link</button>
+					</div>
+				</div>
+			</form>
+		</div>		
+		
+		<div class="span6">
+		<legend>Remove Links</legend>
+			<div class="tabbable">
+				<ul class="nav nav-tabs" id="myTab">
+					<li class="active"><a href="#administrative" data-toggle="tab">Administrative</a></li>
+					<li><a href="#sales" data-toggle="tab">Sales</a></li>
+					<li><a href="#fi" data-toggle="tab">FI</a></li>
+					<li><a href="#parts" data-toggle="tab">Parts</a></li>
+					<li><a href="#service" data-toggle="tab">Service</a></li>
+					<li><a href="#it" data-toggle="tab">IT</a></li>
+				</ul> 
+				
+				<div class="tab-content">				
+				
+					<div class="tab-pane active fade in" id="administrative">
+						<form action="removelink" method="post">
+							<input type="hidden" name="collection" value="administrative">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% data["administrative"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Link</button>
+						</form>		
+					</div>
+
+					<div class="tab-pane fade in" id="sales">
+						<form action="removelink" method="post">
+							<input type="hidden" name="collection" value="sales">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% data["sales"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Link</button>
+						</form>
+					</div>
+
+				        <div class="tab-pane fade in" id="fi">
+                                                <form action="removelink" method="post">
+                                                        <input type="hidden" name="collection" value="fi">
+                                                        <table class="table table-condensed">
+                                                                <tr>
+                                                                        <th>Remove</th>
+                                                                        <th>Descriptive Name</th>
+                                                                        <th>URL Location</th>
+                                                                </tr>
+
+                                                                <% data["fi"].forEach(function(list) { %>
+                                                                <tr>
+                                                                        <td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+                                                                        <td><%=list["name"]%></td>
+                                                                        <td><%=list["url"]%></td>
+                                                                </tr>
+                                                                <% }); %>                                                                                                                      
+                                                        </table>
+                                                        <button type="submit" class="btn btn-large btn-danger">Remove Link</button>
+                                                </form>
+                                        </div>
+	
+					<div class="tab-pane fade in" id="parts">
+						<form action="removelink" method="post">
+							<input type="hidden" name="collection" value="parts">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% data["parts"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Link</button>
+						</form>
+					</div>
+					
+					<div class="tab-pane fade in" id="service">
+						<form action="removelink" method="post">
+							<input type="hidden" name="collection" value="service">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% data["service"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Link</button>
+						</form>
+					</div>
+					
+					<div class="tab-pane fade in" id="it">
+						<form action="removelink" method="post">
+							<input type="hidden" name="collection" value="it">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% data["it"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Link</button>
+						</form>
+					</div>
+				</div>
+			</div>		
+		</div>
+	</div><!--LINKS END-->
+
+	<div class="row-fluid"> <!--DOCS START-->
+		<div class="span6">
+			<form class="form-horizontal" action="insertdoc" method="post">
+				<legend>Add Docs</legend>
+				<div class="control-group">
+					<label class="control-label" for="docinputName">Name</label> 
+					<div class="controls">
+						<input type="text" id="docinputName" placeholder="Descriptive Name" name="name">
+					</div>
+				</div>
+				<div class="control-group">
+					<label class="control-label" for="docinputURL">URL</label>
+					<div class="controls">
+						<div class="input-prepend">
+							<input type="text" id="docinputURL" placeholder="URL Location" name="url">
+						</div>
+					</div>
+				</div>				
+				<div class="control-group">
+					<div class="controls">
+						<label class="checkbox">
+							<input type="checkbox" name="administrative" value="administrative"> Administrative
+						</label>
+						<label class="checkbox">
+							<input type="checkbox" name="sales" value="sales"> Sales
+						</label>
+	                                        <label class="checkbox">
+                                                        <input type="checkbox" name="fi" value="fi"> FI
+                                                </label>
+						<label class="checkbox">
+							<input type="checkbox" name="parts" value="parts"> Parts
+						</label>
+						<label class="checkbox">
+							<input type="checkbox" name="service" value="service"> Service
+						</label>
+						<label class="checkbox">
+							<input type="checkbox" name="it" value="it"> IT
+						</label>
+					</div>
+				</div>	
+				<div class="control-group">
+					<div class="controls">
+						<button type="submit" class="btn btn-large btn-primary">Add New Doc</button>
+					</div>
+				</div>
+			</form>
+		</div>
+		
+		<div class="span6">
+		<legend>Remove Docs</legend>
+			<div class="tabbable">
+				<ul class="nav nav-tabs" id="docTab">
+					<li class="active"><a href="#docadministrative" data-toggle="tab">Administrative</a></li>
+					<li><a href="#docsales" data-toggle="tab">Sales</a></li>
+					<li><a href="#docfi" data-toggle="tab">FI</a></li>
+					<li><a href="#docparts" data-toggle="tab">Parts</a></li>
+					<li><a href="#docservice" data-toggle="tab">Service</a></li>
+					<li><a href="#docit" data-toggle="tab">IT</a></li>
+				</ul> 
+				
+				<div class="tab-content">				
+				
+					<div class="tab-pane active fade in" id="docadministrative">
+						
+						<form action="removedoc" method="post">
+							<input type="hidden" name="collection" value="administrative">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% doc_data["administrative"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Doc</button>
+						</form>		
+					</div>
+
+					<div class="tab-pane fade in" id="docsales">
+						<form action="removedoc" method="post">
+							<input type="hidden" name="collection" value="sales">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% doc_data["sales"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Doc</button>
+						</form>
+					</div>
+				
+        				<div class="tab-pane fade in" id="docfi">
+                                                <form action="removedoc" method="post">
+                                                        <input type="hidden" name="collection" value="fi">
+                                                        <table class="table table-condensed">
+                                                                <tr>
+                                                                        <th>Remove</th>
+                                                                        <th>Descriptive Name</th>
+                                                                        <th>URL Location</th>
+                                                                </tr>
+
+                                                                <% doc_data["fi"].forEach(function(list) { %>
+                                                                <tr>
+                                                                        <td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+                                                                        <td><%=list["name"]%></td>
+                                                                        <td><%=list["url"]%></td>
+                                                                </tr>
+                                                                <% }); %>                                                                                                                      
+                                                        </table>
+                                                        <button type="submit" class="btn btn-large btn-danger">Remove Doc</button>
+                                                </form>
+                                        </div>	
+					
+					<div class="tab-pane fade in" id="docparts">
+						<form action="removedoc" method="post">
+							<input type="hidden" name="collection" value="parts">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% doc_data["parts"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Doc</button>
+						</form>
+					</div>
+					
+					<div class="tab-pane fade in" id="docservice">
+						<form action="removedoc" method="post">
+							<input type="hidden" name="collection" value="service">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% doc_data["service"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Doc</button>
+						</form>
+					</div>
+					
+					<div class="tab-pane fade in" id="docit">
+						<form action="removedoc" method="post">
+							<input type="hidden" name="collection" value="it">
+							<table class="table table-condensed">
+								<tr>
+									<th>Remove</th>
+									<th>Descriptive Name</th>
+									<th>URL Location</th>
+								</tr>
+								
+								<% doc_data["it"].forEach(function(list) { %>
+								<tr>
+									<td><input type="checkbox" name="<%=list["_id"]%>" value="<%=list["_id"]%>"></td>
+									<td><%=list["name"]%></td>
+									<td><%=list["url"]%></td>
+								</tr>
+								<% }); %>															
+							</table>
+							<button type="submit" class="btn btn-large btn-danger">Remove Doc</button>
+						</form>
+					</div>
+				</div>
+			</div>		
+		</div>
+	</div>
+	
+</div>
+		<script>
+		$(document).ready(function(){
+			$('#myTab a').click(function(e) {
+				e.preventDefault();
+				$(this).tab('show');
+			})
+			$('#myTab a:first').tab('show');
+			
+			$('#docTab a').click(function(e) {
+				e.preventDefault();
+				$(this).tab('show');
+			})
+			$('#docTab a:first').tab('show');
+			
+		});
+		</script>	
+<% include foot %>

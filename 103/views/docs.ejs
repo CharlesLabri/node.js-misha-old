@@ -1,0 +1,45 @@
+<% include head %>
+<% include navbar %>
+
+
+	<div class="row-fluid">
+		
+		<div class="span2">
+			<div class="well sidebar-nav">
+			
+				<ul class="nav nav-list"> 
+					<% db_docs.forEach(function(tmp) { %>
+						<li id="<%=tmp["_id"]%>"><a target="portal" href="<%=tmp["url"]%>"><%=tmp["name"]%></a></li>						
+					<% }) %>
+				</ul>
+				
+			</div><!--/.well -->
+		</div>
+		
+		<div class="span10">
+			<iframe style="width: 100%; height: 525px;" frameborder="0" src="" name="portal"></iframe>
+		</div>
+	</div>
+	<HR>
+</div>
+
+
+<script>
+	$(document).ready(function() {
+		var old_link = '';
+		var new_link = '';
+		$('a').click(function() {			
+			if (old_link == '') {
+				old_link = $(this).parent().attr('id');
+				$('#' + old_link).toggleClass('active');					
+			}
+			else {
+				$('#' + old_link).toggleClass('active');
+				old_link = $(this).parent().attr('id');
+				$('#' + old_link).toggleClass('active');
+			}				
+		});
+	});
+</script>
+
+<% include foot %>

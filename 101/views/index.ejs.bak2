@@ -1,0 +1,1293 @@
+<% include head %>
+<% include navbar %>
+	
+<div class="container-fluid">	
+	<div class="row-fluid">	
+		<div class="hero-unit">
+			<h1>Misha <small>Honda of Santa Maria</small></h1>	
+			
+		</div>
+	</div>	
+	<div class="row-fluid">	
+		<img class="pull-right" src="/img/misha_big.png">
+		<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:mv="http://macVmlSchemaUri" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=macintosh">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List
+href="Toy%20Hon%20Mission%20Stmt,%20Values%20&amp;%20Culture_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Mike</o:Author>
+  <o:LastAuthor>Irenaeus</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>176</o:TotalTime>
+  <o:Created>2014-06-09T20:41:00Z</o:Created>
+  <o:LastSaved>2014-06-09T20:41:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>2115</o:Words>
+  <o:Characters>12057</o:Characters>
+  <o:Lines>100</o:Lines>
+  <o:Paragraphs>28</o:Paragraphs>
+  <o:CharactersWithSpaces>14144</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData
+href="Toy%20Hon%20Mission%20Stmt,%20Values%20&amp;%20Culture_files/themedata.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Courier New";
+	panose-1:2 7 3 9 2 2 5 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:11.0pt;
+	mso-ansi-font-size:11.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:.5in .8in .5in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+
+@list l0
+	{mso-list-id:887913450;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1330344082 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:1307319633;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-922698558 67698703 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2
+	{mso-list-id:1689141902;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-413610922 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1709834263;
+	mso-list-type:hybrid;
+	mso-list-template-ids:934184568 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:15.0pt'>Toyota &amp; Honda of Santa Maria<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt'>Mission Statement<span style="mso-spacerun:yes">&nbsp;
+</span></span></b><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt;mso-bidi-font-family:"Times New Roman"'>•<span
+style="mso-spacerun:yes">&nbsp; </span>Core</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-family:
+"Times New Roman"'> Competencies<span style="mso-spacerun:yes">&nbsp;
+</span>•<span style="mso-spacerun:yes">&nbsp; </span></span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt'>Core Values<span
+style="mso-spacerun:yes">&nbsp; </span></span></b><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;mso-bidi-font-family:"Times New Roman"'>•<span
+style="mso-spacerun:yes">&nbsp; </span></span></b><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt'>Culture<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'>The purpose of this document is to provide an outline for our entire
+Team with regard to the fundamental principles that guide us as an
+organization.<span style="mso-spacerun:yes">&nbsp; </span>We believe in having
+a foundation that is built on Christian fundamentals that are weaved throughout
+everything we do and hold us accountable for our actions.<span
+style="mso-spacerun:yes">&nbsp; </span>We are not hypocrites and understand
+that we are far from perfect and will make mistakes; however, we will learn from
+our mistakes and we are committed to consistent improvement.<span
+style="mso-spacerun:yes">&nbsp; </span>We want people on our Team that
+genuinely enjoy what they do and want to work here.<span
+style="mso-spacerun:yes">&nbsp; </span>If we have the right people on the Team,
+find the best fit for each person and follow the principles in this document,
+we will be successful.<span style="mso-spacerun:yes">&nbsp; </span>This
+document starts with a simple but very thought-out Mission Statement and ends
+with a discussion about our Culture.<span style="mso-spacerun:yes">&nbsp;
+</span>The Mission Statement is one sentence that summarizes what we are trying
+to accomplish as an organization.<span style="mso-spacerun:yes">&nbsp;
+</span>After the Mission Statement, we drill down to our Core Competencies
+which are two key disciplines that enable us to fulfill our Mission Statement.<span
+style="mso-spacerun:yes">&nbsp; </span>Our Core Values are next and these are
+the behavioral guidelines that we use to hold each of us accountable as to our
+actions.<span style="mso-spacerun:yes">&nbsp; </span>Our Culture is the product
+of all the above. </p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><u><span
+style='font-size:12.0pt'>MISSION STATEMENT<o:p></o:p></span></u></b></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><i style='mso-bidi-font-style:normal'>To
+consistently exceed the expectations of our customers &amp; employees so that
+Toyota/Honda of Santa Maria is recognized as the dealership and employer of
+choice on the central coast.<o:p></o:p></i></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><u><span
+style='font-size:12.0pt'>CORE COMPETENCIES<o:p></o:p></span></u></b></p>
+
+<p class=MsoNormal style='margin-bottom:3.0pt;line-height:normal'>Core
+Competencies simplify the big picture with regard to what our basic commitments
+are.<span style="mso-spacerun:yes">&nbsp; </span>These two commitments help us
+understand what we are trying to do.<span style="mso-spacerun:yes">&nbsp;
+</span>Exceeding expectations in our Core Competencies will differentiate us
+from our competition.<span style="mso-spacerun:yes">&nbsp; </span>Our
+competition is not just other dealerships but all other businesses and we must
+commit to being better at our Core Competencies than everyone else.<span
+style="mso-spacerun:yes">&nbsp; </span>Our Core Competencies are:</p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:1.0in;margin-bottom:.0001pt;mso-add-space:auto;
+text-indent:-.25in;line-height:normal;mso-list:l3 level2 lfo4'><![if !supportLists]><span
+style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+mso-bidi-font-family:"Courier New"'><span style='mso-list:Ignore'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]>Hiring
+and developing great people that possess all of the un-teachable
+characteristics (i.e., CADET) and are committed to success in both their
+professional and personal lives;</p>
+
+<p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
+margin-bottom:3.0pt;margin-left:1.0in;mso-add-space:auto;text-indent:-.25in;
+line-height:normal;mso-list:l3 level2 lfo4'><![if !supportLists]><span
+style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
+mso-bidi-font-family:"Courier New"'><span style='mso-list:Ignore'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]>Consistently
+delivering world class experiences that “wow” our customers so that we develop
+relationships with them to the point our customers are advocates of us and not
+only want to do business with us but encourage others to do so as well;</p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'>We will be successful if we commit to mastering these two Core
+Competencies and work hard at holding each other accountable to following both
+these commitments and our Core Values.</p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><u><span
+style='font-size:12.0pt'><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></u></b></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><u><span
+style='font-size:12.0pt'>CORE VALUES<o:p></o:p></span></u></b></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'>Core Values are non-negotiable behaviors that are a condition of
+employment for everyone within the organization.<span
+style="mso-spacerun:yes">&nbsp; </span>Adhering to these behavioral
+expectations is just as important, if not more so, as achieving our performance
+expectations.<span style="mso-spacerun:yes">&nbsp; </span>Core Values are
+stronger than just beliefs, they are convictions that we are passionate about
+and must be lived, reinforced and brought to life throughout the
+organization.<span style="mso-spacerun:yes">&nbsp; </span>Core Values establish
+an accountability benchmark for behavior that is essential to building and
+maintaining a high performance culture.<span style="mso-spacerun:yes">&nbsp;
+</span>Everyone within the organization is expected to take responsibility for our
+Core Values and to hold themselves and each other accountable, regardless of
+position within the organization.<span style="mso-spacerun:yes">&nbsp;
+</span>It is vital that managers/leaders “walk the talk” and lead by example in
+both their professional and personal behavior to make sure they never
+compromise any of the values.<span style="mso-spacerun:yes">&nbsp; </span>We
+understand that “actions speak louder than words” and we buy-in to the concept
+of “your actions speak so loudly, I can’t hear what you say”.<span
+style="mso-spacerun:yes">&nbsp; </span>Behavior includes everything we do (or
+fail to do) and say (or fail to say).<span style="mso-spacerun:yes">&nbsp;
+</span>There are no short-cuts to our Core Values just as there are no
+short-cuts to achieving success.<span style="mso-spacerun:yes">&nbsp; </span>Adhering
+to our Core Values will make it easier for all of us to make decisions and to
+know how to handle the various situations we face on a daily basis.<span
+style="mso-spacerun:yes">&nbsp; </span>Our Core Values will guide us to always
+do the right thing in the right way.<span style="mso-spacerun:yes">&nbsp;
+</span>All of our actions, words, results, etc. should go through a “filter” that
+holds us accountable to adhering to our Core Values. </p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><b
+style='mso-bidi-font-weight:normal'><u>Energy/Enthusiasm<o:p></o:p></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><i
+style='mso-bidi-font-style:normal'>We will create a positive environment that
+produces energy &amp; enthusiasm throughout the dealership.<span
+style="mso-spacerun:yes">&nbsp; </span>The energy &amp; enthusiasm will be
+contagious and obvious to everyone (i.e., customers &amp; employees) that
+enters the dealership.</i><span style="mso-spacerun:yes">&nbsp; </span>The
+energy &amp; enthusiasm includes our actions and our words, the way we approach
+our daily responsibilities and the “hop in our step” as we do so.<span
+style="mso-spacerun:yes">&nbsp; </span>The energy/enthusiasm will continually drive
+the hunger in each of us to produce results. <span
+style="mso-spacerun:yes">&nbsp;</span>We commit to only hiring and retaining
+those that have genuine energy/enthusiasm and we understand that this
+characteristic is one of the 5 unteachables (i.e., CADET) that everyone on our
+team must possess.<span style="mso-spacerun:yes">&nbsp; </span>“Energy
+Vampires” will not be tolerated &#8211; no exceptions.<span
+style="mso-spacerun:yes">&nbsp; </span>We will retain employees that genuinely
+like our industry/business and want to come to work.<span
+style="mso-spacerun:yes">&nbsp; </span>We encourage our employees to live a
+healthy lifestyle and understand how this corresponds to
+energy/enthusiasm.<span style="mso-spacerun:yes">&nbsp; </span>A healthy
+lifestyle is one that is balanced and includes physical health, spiritual
+health, family health, etc.<span style="mso-spacerun:yes">&nbsp; </span>We
+understand that emotions are contagious and that high performing teams have
+more positive interactions than negative interactions.<span
+style="mso-spacerun:yes">&nbsp; </span>Teams that experience positive
+interactions at a ratio equal or greater than 3:1 are more productive and
+higher performing than those that don’t.<span style="mso-spacerun:yes">&nbsp;
+</span>We will create more positive interactions.<span
+style="mso-spacerun:yes">&nbsp; </span>We will praise more, encourage more,
+appreciate more, smile more, high-five more, recognize more, energize more,
+etc. </p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><b
+style='mso-bidi-font-weight:normal'><u>Servant Mindset<o:p></o:p></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><i
+style='mso-bidi-font-style:normal'>We believe in the concept of being a servant
+in both our business and personal lives.<span style="mso-spacerun:yes">&nbsp;
+</span>We commit to applying a servant’s mindset to our co-workers, those we
+manage and our customers</i>.<span style="mso-spacerun:yes">&nbsp; </span>Some
+people are just naturally wired to care and want to help others; these are the
+type of people we want on our team.<span style="mso-spacerun:yes">&nbsp;
+</span>We believe that if we help others get what they want that we will get
+what we want and that a key measurement of success is based on the positive
+impact we have on others.<span style="mso-spacerun:yes">&nbsp; </span>We focus
+on what we can do “for” customers, not “to” customers.<span
+style="mso-spacerun:yes">&nbsp; </span>When a customer or co-worker has a
+problem, we focus on what we CAN do, not what we <span class=SpellE><span
+class=GramE>CAN’t</span></span> do.<span style="mso-spacerun:yes">&nbsp;
+</span>We understand the difference of being an “other-centered person” as
+opposed to a “self-centered person” and we commit to hiring and retaining those
+that are “other-centered”.<span style="mso-spacerun:yes">&nbsp; </span>Managers
+commit to serving those we manage/lead rather than expecting those we manage to
+serve us.<span style="mso-spacerun:yes">&nbsp; </span>Managers communicate with
+respect and never manage through intimidation.<span
+style="mso-spacerun:yes">&nbsp; </span>Managers praise in public and reprimand
+in private.<span style="mso-spacerun:yes">&nbsp; </span>We “listen to
+understand” and take a genuine interest in those we deal with.<span
+style="mso-spacerun:yes">&nbsp; </span>We approach each day &amp; situation
+with the mindset of what we can do to make a positive difference and a goal of
+helping others.<span style="mso-spacerun:yes">&nbsp; </span>We believe in being
+good corporate citizens by supporting the local community both as a company and
+individually.</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><b
+style='mso-bidi-font-weight:normal'><u>Accountability<o:p></o:p></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><i
+style='mso-bidi-font-style:normal'>We respect accountability and understand
+that it makes all of us better.<span style="mso-spacerun:yes">&nbsp; </span>We
+commit to holding ourselves and each other (co-workers and those we manage)
+accountable.<span style="mso-spacerun:yes">&nbsp; </span>This discipline applies
+to behavioral (professional &amp; personal) and performance expectations</i>.<span
+style="mso-spacerun:yes">&nbsp; </span>We believe in having “accountability
+partners” to help maintain our disciplines.<span
+style="mso-spacerun:yes">&nbsp; </span>We have “thick skin” when others are
+holding us accountable and we have the mind set of “make me better, I’m open,
+tell me how I can improve”.<span style="mso-spacerun:yes">&nbsp; </span>We are
+responsible for our actions as well as the results we produce and we understand
+we will be held accountable for both.<span style="mso-spacerun:yes">&nbsp;
+</span>Good people and good processes are a winning combination and when
+something goes wrong, we will drill down and determine if it was our people or
+our process as both need held accountable.<span style="mso-spacerun:yes">&nbsp;
+</span>We commit to being solution oriented and not complaining or allowing
+others within the organization to complain.<span
+style="mso-spacerun:yes">&nbsp; </span>Complaining includes not making
+excuses.<span style="mso-spacerun:yes">&nbsp; </span>The key to not complaining
+or making excuses is to take responsibility, not blame things on others and
+always offer solutions to any issue/problem that arises.<span
+style="mso-spacerun:yes">&nbsp; </span>Seeing solutions rather than obstacles
+is a key differentiator between being a winner versus a whiner.<span
+style="mso-spacerun:yes">&nbsp; </span>We will become brilliant in the basics
+and pay attention to getting the “little” things done consistently and done
+right the first time.<span style="mso-spacerun:yes">&nbsp; </span>We will hold
+ourselves and each other accountable to being disciplined in the daily basics
+and not make excuses when we are held accountable.<span
+style="mso-spacerun:yes">&nbsp; </span>Committing to daily disciplines, regardless
+of what we “want or like” to do, can be bothersome; however, we don’t lose
+sight of the cost for NOT committing to daily disciplines.<span
+style="mso-spacerun:yes">&nbsp; </span>We will create a big enough “Why” in
+order help maintain this discipline.<span style="mso-spacerun:yes">&nbsp;
+</span>Being committed to daily disciplines means doing what you say you’ll do,
+when you say you’ll do it and how you say you’ll do it &#8211; and doing so
+regardless of the cost.<span style="mso-spacerun:yes">&nbsp; </span>Every
+position will have documented daily disciplines so everyone on the Team is on
+the same page as to what each other are committed to doing EVERY day.<span
+style="mso-spacerun:yes">&nbsp; </span>We do not tolerate people on our team
+that “drop the ball”; this includes not having to be asked to do something more
+than once, following through on commitments, etc.</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><b
+style='mso-bidi-font-weight:normal'><u>Teamwork<o:p></o:p></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><i
+style='mso-bidi-font-style:normal'>The good of the team comes before the
+personal comfort or agenda of any individual team member.<span
+style="mso-spacerun:yes">&nbsp; </span>Our various departments and co-workers
+are all part of the same team and we commit to working together through
+cooperation and synergy to promote a successful working environment that
+leverages all of our strengths</i>. We are committed to making each other
+successful rather than tearing each other down to make ourselves successful. <span
+style="mso-spacerun:yes">&nbsp;</span>Great team players always put the team
+first.<span style="mso-spacerun:yes">&nbsp; </span>We will all work hard for
+the team.<span style="mso-spacerun:yes">&nbsp; </span>We will develop ourselves
+for the team.<span style="mso-spacerun:yes">&nbsp; </span>We serve the
+team.<span style="mso-spacerun:yes">&nbsp; </span>We don’t take credit; we give
+credit to the team.<span style="mso-spacerun:yes">&nbsp; </span>Great team
+players are humble.<span style="mso-spacerun:yes">&nbsp; </span>We are willing
+to learn, improve and hold each other accountable.<span
+style="mso-spacerun:yes">&nbsp; </span>We push, challenge and stretch each
+other to be our best.<span style="mso-spacerun:yes">&nbsp; </span>We believe in
+transparency and candor within the team.<span style="mso-spacerun:yes">&nbsp;
+</span>We are open to feedback and suggestions from our team members and we
+don’t let our ego get in the way of our growth or the team’s growth.<span
+style="mso-spacerun:yes">&nbsp; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><b
+style='mso-bidi-font-weight:normal'><u>Integrity<o:p></o:p></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><i
+style='mso-bidi-font-style:normal'>We always do what is right, not what is
+easy, cheap, popular or convenient and we do so without excuse, regardless of
+the cost and regardless if anyone is watching.<span
+style="mso-spacerun:yes">&nbsp; </span>We have zero tolerance for lack of
+integrity on our team and will hold each other accountable without exception.</i><span
+style="mso-spacerun:yes">&nbsp; </span>Integrity is important with both each
+other and our customers.<span style="mso-spacerun:yes">&nbsp; </span>Integrity
+includes paying attention to “how” we do our job rather than just focusing on
+the results.<span style="mso-spacerun:yes">&nbsp; </span>Our actions and our
+words demonstrate respect at all times with our co-workers and customers.<span
+style="mso-spacerun:yes">&nbsp; </span>Honesty is a key part of Integrity and
+this includes never lie, cheat or steal.</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><b
+style='mso-bidi-font-weight:normal'><u>Sense of Urgency<o:p></o:p></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><i
+style='mso-bidi-font-style:normal'>A sense of urgency means that we serve one
+another and customers quickly and find reasons to do things NOW, rather than to
+delay, debate or procrastinate</i>.<span style="mso-spacerun:yes">&nbsp;
+</span>We make things happen rather than waiting for things to happen and each
+of us acts as a catalyst to make sure we don’t get complacent in this
+area.<span style="mso-spacerun:yes">&nbsp; </span>When it comes to helping
+customers, we drop what we are doing and act like it is a fire drill so the
+customer is never inconvenienced or forced to wait for us.<span
+style="mso-spacerun:yes">&nbsp; </span>We are committed to processes that make
+us extremely easy to do business with to the point that our customers feel like
+they are receiving personalized service with every interaction.<span
+style="mso-spacerun:yes">&nbsp; </span>Sense of urgency with each other means we
+have candor and will address productive issues with each other immediately and
+with transparency.</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><b
+style='mso-bidi-font-weight:normal'><u>Earn &amp; Deserve<o:p></o:p></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><i
+style='mso-bidi-font-style:normal'>We believe that, in business and life, we
+are entitled to what we earn and deserve as opposed to feeling that others
+“owe” us.<span style="mso-spacerun:yes">&nbsp; </span>We understand what is
+expected of us and that we are evaluated based on the results we produce and
+how we produce them</i>.<span style="mso-spacerun:yes">&nbsp; </span>We believe
+in constantly improving all facets of our business and personal lives.<span
+style="mso-spacerun:yes">&nbsp; </span>We are committed to remaining teachable
+and refuse to ever let us believe that we have “arrived”.<span
+style="mso-spacerun:yes">&nbsp; </span>All of us are expected to work as hard
+on ourselves as we do on our job.<span style="mso-spacerun:yes">&nbsp;
+</span>We commit that getting better is not an option.<span
+style="mso-spacerun:yes">&nbsp; </span>Rather than believing “if it’s not
+broken, don’t fix it” we believe “if it’s not broken, make it better”.<span
+style="mso-spacerun:yes">&nbsp; </span>We foster an environment that promotes
+growing and developing those within the organization and providing
+opportunities for advancement with a goal of promoting from within rather than
+hiring from outside the organization.<span style="mso-spacerun:yes">&nbsp;
+</span>We commit to having a “red belt mentality” and not becoming complacent
+in anything we do and understand that the “enemy of great is good”.</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><u><span
+style='font-size:12.0pt'>CULTURE<o:p></o:p></span></u></b></p>
+
+<p class=MsoNormal style='margin-bottom:3.0pt;line-height:normal'>Our culture
+is vital to our success and we expect to maintain a culture that is one of high
+performance at all times.<span style="mso-spacerun:yes">&nbsp; </span>Our
+culture needs to create an environment that makes customers want to do business
+with us and prospective employees want to work on our team.<span
+style="mso-spacerun:yes">&nbsp; </span>Our culture will reinforce our behaviors
+and our behaviors will determine our results.<span
+style="mso-spacerun:yes">&nbsp; </span>Our culture will become our “brand” and
+is how our customers and employees perceive us.<span
+style="mso-spacerun:yes">&nbsp; </span>Our commitment to maintaining a high
+performance culture will enable us to achieve our goals and implement change
+when necessary.<span style="mso-spacerun:yes">&nbsp; </span>In order to achieve
+the culture we expect, we must commit to the following:</p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Our Mission Statement;</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Focus on our Core Competencies;</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Our Core Values;</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;margin-bottom:
+.0001pt;mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Performance standards that measure our results
+compared to benchmarks;</p>
+
+<p class=MsoListParagraphCxSpLast style='margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Understanding that our people will ultimately
+define our culture.<span style="mso-spacerun:yes">&nbsp; </span>Our people must
+commit to living our Mission Statement, Core Competencies and Core Values.<span
+style="mso-spacerun:yes">&nbsp; </span>Our people will be held accountable to
+meeting or exceeding our Performance Standards and must have personal strengths
+that align with our Core Values;</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'>Every business has a culture, whether they know it or not.<span
+style="mso-spacerun:yes">&nbsp; </span>Our commitment is to take control of
+developing the culture we expect based on holding each other accountable to all
+of the above.</p>
+
+</div>
+
+</body>
+
+</html>
+			
+	</div>
+	<div>
+	<html xmlns:v="urn:s
